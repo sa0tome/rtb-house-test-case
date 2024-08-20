@@ -18,7 +18,7 @@ Executes 8 unit tests, for Controllers and Models.
 
 🛠️ Containers: Docker  
 </> Backend: Express.js  
-🖥️ Frontend: React.js and MaterialUi
+🖥️ Frontend: React.js and MaterialUi  
 🛢️ Database: MySQL  
 📝 Tests: Chai/Mocha and Sinon  
 📜 Logs: Winston  
